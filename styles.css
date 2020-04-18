@@ -1,0 +1,40 @@
+.image  {
+	margin-top: 50;
+	margin-bottom: 50;
+	margin-right: auto;
+	margin-left: auto;
+	height : 50%;
+}
+
+.thumbnail  {
+	margin: 50;
+	height: 200;
+	width: 200;
+	display: inline;
+}
+
+.palette-entry-large{
+	display: inline;
+	float : left;
+	height:200px; 
+	width:200px; 
+}
+
+.palette-entry-large::after{
+	content: attr(background);
+}
+
+.palette-entry-small{
+	display: inline;
+	float : left;
+	height:50px; 
+	width:50px; 
+}
+
+.palette-large{
+	overflow: auto;
+}
+
+.palette-small{
+	overflow: auto;	
+}
