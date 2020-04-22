@@ -38,3 +38,8 @@
 .palette-small{
 	overflow: auto;	
 }
+
+.mixing-palette{
+	margin-top: 50px;
+	width:80%;
+}
