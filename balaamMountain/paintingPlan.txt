@@ -1,0 +1,32 @@
+1 dark sky blue.  main sky
+2 light blue sky below rough blending
+2 light grey blue. mid right sky, low sky, sky mid left
+16 mountain.
+17 lower mountain band
+
+DRY
+
+5 dark blue. dark sky top left, and right scraped
+3,4 greens mid sky
+8 green grey sky below white highlight
+14 green fields
+15 light green field highlights
+Scratches through fields to dark from mountain
+
+DRY
+
+9 mid sky clouds
+10 mountain snow highlight
+7 deep blue upper sky middle
+11 / 12 dark grey. low left sky and over distant plateau
+6 green grey blue left upper sky
+13 light grey. low sky
+10 cream. Sky mid high, mountain highlight, sky mid right highlight
+
+18 brown bottom right corner
+19 green bottom right corner, scraped over low sky
+20 brown bottom right corner
+Scrapes through lower rights
+14 green dulled splattered over low mountain 
+21 mist over mid mountain
+2 light grey blue. scraped top right
