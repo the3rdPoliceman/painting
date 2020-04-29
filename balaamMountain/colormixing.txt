@@ -1,0 +1,105 @@
+	Titanium White	644	45.94
+	Buff Titanium	60	37.29
+	Ultramarine Blue	660	16.77
+	Burnt Umber	76	0.00
+
+	Ultramarine Blue	660	47.81
+	Titanium White	644	38.78
+	Burnt Umber	76	6.90
+	Lemon Yellow	346	6.52
+
+	Lemon Yellow	346	65.30
+	Titanium White	644	26.78
+	Ivory Black	331	5.17
+	Cadmium Yellow Deep Hue	115	2.40
+	Cadmium Red Hue	95	0.36
+
+	Titanium White	644	39.69
+	Lemon Yellow	346	30.14
+	Cadmium Yellow Deep Hue	115	19.83
+	Ultramarine Blue	660	10.34
+
+	Ultramarine Blue	660	73.39
+	Cadmium Yellow Deep Hue	115	17.18
+	Titanium White	644	8.45
+	Lemon Yellow	346	0.98
+
+	Titanium White	644	55.13
+	Ultramarine Blue	660	23.13
+	Cadmium Yellow Deep Hue	115	20.20
+	Lemon Yellow	346	1.54
+
+	Ultramarine Blue	660	68.39
+	Titanium White	644	19.79
+	Lemon Yellow	346	9.06
+	Cadmium Yellow Deep Hue	115	2.76
+
+	Lemon Yellow	346	27.67
+	Burnt Umber	76	26.28
+	Titanium White	644	23.77
+	Ivory Black	331	13.88
+	Ultramarine Blue	660	8.41
+
+	Titanium White	644	89.85
+	Buff Titanium	60	7.26
+	Burnt Umber	76	1.94
+	Ivory Black	331	0.56
+	Ultramarine Blue	660	0.39
+
+	Titanium White	644	97.30
+	Cadmium Yellow Deep Hue	115	2.02
+	Ultramarine Blue	660	0.68
+	Lemon Yellow	346	0.00
+
+	Titanium White	644	52.62
+	Ivory Black	331	37.24
+	Cadmium Yellow Deep Hue	115	7.54
+	Ultramarine Blue	660	1.82
+	Lemon Yellow	346	0.78
+
+	Ultramarine Blue	660	31.34
+	Ivory Black	331	18.56
+	Titanium White	644	17.61
+	Cadmium Yellow Deep Hue	115	17.25
+	Buff Titanium	60	15.24
+
+	Burnt Umber	76	68.31
+	Pyrrole Red	534	16.88
+	PhthaloBlueGreenShade	515	14.64
+	Titanium White	644	0.17
+
+	Lemon Yellow	346	68.55
+	Titanium White	644	14.11
+	Buff Titanium	60	8.45
+	Burnt Umber	76	4.63
+	Ivory Black	331	4.27
+
+	Titanium White	644	65.81
+	Lemon Yellow	346	18.74
+	Burnt Umber	76	5.54
+	Cadmium Yellow Deep Hue	115	5.08
+	Ivory Black	331	4.84
+
+	Ivory Black	331	73.94
+	Cadmium Yellow Deep Hue	115	26.06
+
+	Phthalo Green	522	79.92
+	Ivory Black	331	20.01
+	Burnt Umber	76	0.04
+	Ultramarine Blue	660	0.03
+	Titanium White	644	0.00
+
+	Cadmium Yellow Deep Hue	115	47.78
+	Burnt Umber	76	31.40
+	Ivory Black	331	18.33
+	Buff Titanium	60	1.44
+	Titanium White	644	1.05
+
+	Lemon Yellow	346	68.15
+	Ivory Black	331	20.79
+	Cadmium Red Hue	95	11.06
+
+	Ultramarine Blue	660	83.53
+	Lemon Yellow	346	15.97
+	Buff Titanium	60	0.29
+	Titanium White	644	0.22
