@@ -1,0 +1,1 @@
+/Applications/GIMP-2.10.app/Contents/MacOS/gimp -i -b '(gimp-image-convert-grayscale $1)'  -b '(gimp-quit 0)'
